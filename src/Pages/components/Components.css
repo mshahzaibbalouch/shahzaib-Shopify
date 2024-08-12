@@ -1,0 +1,21 @@
+.logo{
+    height: 80px;
+    width: auto;
+}
+
+form .search-icon {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #6c757d;
+    pointer-events: none;
+  }
+  
+  form .form-control {
+    padding-left: 35px;
+  }
+
+  form .search-input {
+    width: 100%; 
+  }
